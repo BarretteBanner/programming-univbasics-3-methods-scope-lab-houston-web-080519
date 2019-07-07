@@ -16,6 +16,6 @@ def link
 end 
 
 def any_phrase(phrase)
-  string = "#{phrase}/n"
+  string = "#{phrase}\n"
   puts string
 end
