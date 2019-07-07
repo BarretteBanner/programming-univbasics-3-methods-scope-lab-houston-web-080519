@@ -17,4 +17,5 @@ end
 
 def any_phrase(phrase)
   string = "#{phrase}/n"
+  puts string
 end
